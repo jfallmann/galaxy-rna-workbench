@@ -44,7 +44,8 @@ steps:
       backdrop: true
 
     - title: "<b>Step 1: Download fasta file with RNA sequence</b>"
-      content: "We will now proceed to download the sequence of the gene of interest (the file <b>'Homo_sapiens_CXCL2_sequence.fa'</b>) from <a href=\"http://doi.org/10.5281/zenodo.212693\" target=\"_blank\">zenodo</a> to your computer and then <b>upload</b> the same file to Galaxy."
+      content: "We will now proceed to download the sequence of the gene of interest (the file <b>'Homo_sapiens_CXCL2_sequence.fa'</b>) from <a href=\"http://www.bioinf.uni-leipzig.de/~fall/viennarna-tour/\" target=\"_blank\">viennarna-tour</a> to your computer and then <b>upload</b> the same file to Galaxy."
+#      content: "We will now proceed to download the sequence of the gene of interest (the file <b>'Homo_sapiens_CXCL2_sequence.fa'</b>) from <a href=\"http://doi.org/10.5281/zenodo.212693\" target=\"_blank\">zenodo</a> to your computer and then <b>upload</b> the same file to Galaxy."
       backdrop: true
 
     - title: "<b>Step 1: Download fasta file with RNA sequence</b>"

@@ -1,5 +1,6 @@
 libraries:
-    - name: "Test data"
-      files:
-        - https://raw.githubusercontent.com/eteriSokhoyan/test-data/master/cliques-high-representatives.fa
-        - https://raw.githubusercontent.com/eteriSokhoyan/test-data/master/cliques-low-representatives.fa
+    - name: "viennarna-tour"
+      files: # to be replaced by links to zenodo once the final dataset is collected
+        - http://www.bioinf.uni-leipzig.de/~fall/viennarna-tour/Homo_sapiens_CXCL2_sequence.fa
+        - http://www.bioinf.uni-leipzig.de/~fall/viennarna-tour/Homo_sapiens_CXCL2_constraints.fa
+        - http://http://www.bioinf.uni-leipzig.de/~fall/viennarna-tour/CXCL2_8_primates_EPO.aln
